@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Xekyy/GuardianJoinEffect
+build-by-default: true
+branches:
+- main
+projects:
+  GuardianJoinEffect:
+    path: ""
+...
